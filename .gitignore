@@ -1,0 +1,32 @@
+# ==========================================
+# GITIGNORE - PAN DE CASA
+# ==========================================
+
+# Compilados de Java
+*.class
+
+# Respaldos y Archivos Temporales
+*.bak
+*.beforefix
+mwb_extracted/
+
+# Configuraciones de Entorno de Desarrollo (IDE)
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+
+# Archivos de Sistema
+Thumbs.db
+desktop.ini
+
+# Python (Scripts auxiliares)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
